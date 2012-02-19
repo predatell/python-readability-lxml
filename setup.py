@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="readability-lxml",
+    name="python-readability-lxml",
     version="0.2.3",
     author="predatell",
     author_email="burchik@gmail.com",
